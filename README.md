@@ -1,10 +1,10 @@
-**Hi there** 👋
 
-My name is Jacob Forsdyke
+![image](https://github.com/Jake-Forsdyke/Jake-Forsdyke/assets/156128944/25b7b06e-4e30-4681-8261-19f059149b1e)
+
 
 Recent graduate in mathematical science BSc from the University of Bath
 
-I’m currently learning python through Udemy and have taken course which have involved me using R and MAtlab
+I’m currently learning python through Udemy and have taken course which have involved me using R and MATLAB
 
 Below are some of my projects i have completed throughout university:
 <!--
